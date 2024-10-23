@@ -23,7 +23,7 @@ Esto es un ejemplo de una lista numerada
 4. Fourth item
 
 Esto es un ejemplo de un Enlace:<https://www.markdownguide.org> <fake@example.com>.
-  imagen:![Tux, the Linux mascot](tartadefresa.jpg)
+  Esto es una imagen:![Tux, the Linux mascot](tartadefresa.jpg)
   
 Esto es un ejemplo de un código
 Esto es un `codigo`
@@ -33,6 +33,6 @@ Esto es un ejemplo de una citas
 
 Esto es un ejemplo de un una tabla simple 
 |Nombre|Apellido|
-----------------
-|David|Jimenez|
-|Pepe|Gimenez|
+|------|--------|
+|David |Jimenez |
+|Pepe  |Gimenez |
