@@ -22,8 +22,8 @@ Esto es un ejemplo de una lista numerada
 3. Third item
 4. Fourth item
 
-Esto es un ejemplo de un Enlace:<https://www.markdownguide.org> <fake@example.com>.
-  Esto es una imagen:![Tux, the Linux mascot](tartadefresa.jpg)
+Esto es un ejemplo de un Enlace:<https://www.markdownguide.org> <fake@example.com>,
+  y esto es una imagen:![Tux, the Linux mascot](tartadefresa.jpg)
   
 Esto es un ejemplo de un código
 Esto es un `codigo`
