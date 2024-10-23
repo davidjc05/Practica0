@@ -25,10 +25,10 @@ Esto es un ejemplo de una lista numerada
 Esto es un ejemplo de un enlaces e imágen
 Enlace:<https://www.markdownguide.org>
       <fake@example.com>
-  imagen:![Tux, the Linux mascot](/assets/images/tux.png)
+  imagen:![Tux, the Linux mascot](tartadefresa.jpg)
   
 Esto es un ejemplo de un código
-At the command prompt, type `nano`
+Esto es un `codigo`
 
 Esto es un ejemplo de una citas
 > Esto es una cita.
