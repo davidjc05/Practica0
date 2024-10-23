@@ -32,3 +32,7 @@ Esto es un ejemplo de una citas
 > Esto es una cita.
 
 Esto es un ejemplo de un una tabla simple 
+|Nombre|Apellido|
+----------------
+|David|Jimenez|
+|Pepe|Gimenez|
