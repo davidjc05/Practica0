@@ -53,5 +53,4 @@ Esto es un ejemplo de un una tabla simple
 
 Los comentarios se ponen asi
 `` `<!-- -->` ``
-
-Fin del Manual:![](tartadefresa.jpg)
+![](bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg)
