@@ -1,8 +1,8 @@
 Esto es un ejemplo de un titulo:
-# Heading level 1
+# Titulo 
 
 Esto es un ejemplo de un subtítulo:
-## Heading level 2
+## Subtitulo 
 
 Esto es un ejemplo de la letra en negrita
 **bold text**
