@@ -3,11 +3,11 @@ Esto es un ejemplo de un titulo:
 Esto es un ejemplo de un subtítulo:
 ## Subtitulo 
 
-Esto es un ejemplo de la letra en negrita
-**bold text**
+Esto es un ejemplo de la letra en **negrita**
+```**palabra**```
 
-Esto es un ejemplo de una cursiva 
-*cat's meow*
+Esto es un ejemplo de una *cursiva* 
+```*palabra*```
 
 Esto es un ejemplo de una viñeta:
 - Primero
