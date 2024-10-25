@@ -32,7 +32,7 @@ anidar una lista desordenada en una lista ordenada, o viceversa.
 4. Cuarto
 
 Esto es un ejemplo de un Enlace:<https://www.markdownguide.org> <fake@example.com>,
-  y esto es una imagen:![Tux, the Linux mascot](tartadefresa.jpg)
+  y esto es una imagen:![](tartadefresa.jpg)
   
 Esto es un ejemplo de un código
 Esto es un `codigo`
@@ -53,3 +53,5 @@ Esto es un ejemplo de un una tabla simple
 
 Los comentarios se ponen asi
 `` `<!-- -->` ``
+
+Fin del Manual:![](tartadefresa.jpg)
